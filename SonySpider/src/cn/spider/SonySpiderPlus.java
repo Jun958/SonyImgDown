@@ -1,18 +1,12 @@
 package cn.spider;
 
 import java.io.File;
-import java.io.FileOutputStream;
-import java.io.InputStream;
 import java.net.URL;
-import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
-import javax.swing.plaf.SliderUI;
-
 import org.apache.commons.io.FileUtils;
 
-import cn.spider.TestImg.Months;
 /*
  * 抓取索尼壁纸带日历(需commons-io类)
  */
